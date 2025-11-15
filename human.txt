@@ -1,1 +1,3 @@
-Me costó calcular bien las horas y decidir dónde poner la lista negra.
+Me costó manejar bien los tiempos entre entrada y salida.
+Tenía que cuidar minutos y segundos para no fallar.
+También dudé si la lista negra iba en base de datos o fija en el servicio.
