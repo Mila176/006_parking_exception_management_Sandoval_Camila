@@ -1,0 +1,4 @@
+La parte que más me costó fue el manejo de las validaciones de tiempo, porque tuve que 
+pensar bien cómo calcular las horas entre la entrada y salida sin meter la pata con los 
+minutos y segundos. También me dio vueltas el tema de la lista negra, porque al principio 
+no sabía si ponerla en la base de datos o dejarla hardcodeada en el servicio.
